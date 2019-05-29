@@ -1,0 +1,8 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>cn.youcong.design.model.learning</groupId>
+  <artifactId>DesignModelSimple</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>Design Model</name>
+  <description>为了更好的理解Java源码API，有必要理解和系统学习一下设计模式</description>
+</project>
