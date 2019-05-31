@@ -16,3 +16,5 @@ cn.builder.pattern.simple 建造者模式
 cn.prototype.pattern.simple 原型模式
 
 cn.adapter.pattern.simple 适配器模式
+
+cn.bridge.pattern.simple 桥接模式
