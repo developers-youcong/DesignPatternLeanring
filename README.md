@@ -20,3 +20,8 @@ cn.adapter.pattern.simple 适配器模式
 cn.bridge.pattern.simple 桥接模式
 
 cn.filter.pattern.simple 过滤器模式
+
+cn.composite.pattern.simple 组合模式
+
+cn.decorator.pattern.simple 装饰器模式
+
