@@ -25,3 +25,10 @@ cn.composite.pattern.simple 组合模式
 
 cn.decorator.pattern.simple 装饰器模式
 
+cn.facade.pattern.simple 外观模式
+
+cn.flyweight.pattern.simple 享元模式
+
+cn.proxy.pattern.simple 代理模式
+
+cn.chain_responsibility.pattern.simple 责任链模式
