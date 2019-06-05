@@ -32,3 +32,13 @@ cn.flyweight.pattern.simple 享元模式
 cn.proxy.pattern.simple 代理模式
 
 cn.chain_responsibility.pattern.simple 责任链模式
+
+cn.command.pattern.simple 命令模式
+
+cn.interpreter.pattern.simple 解释器模式
+
+cn.iterator.pattern.simple 迭代器模式
+
+cn.mediator.pattern.simple 中介者模式
+
+cn.memento.pattern.simple 备忘录模式
