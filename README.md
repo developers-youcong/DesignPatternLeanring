@@ -42,3 +42,9 @@ cn.iterator.pattern.simple 迭代器模式
 cn.mediator.pattern.simple 中介者模式
 
 cn.memento.pattern.simple 备忘录模式
+
+cn.observer.pattern.simple 观察者模式
+
+cn.state.pattern.simple 状态模式
+
+cn.null_object.pattern.simple 空对象模式
