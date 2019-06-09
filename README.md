@@ -48,3 +48,7 @@ cn.observer.pattern.simple 观察者模式
 cn.state.pattern.simple 状态模式
 
 cn.null_object.pattern.simple 空对象模式
+
+cn.strategy.pattern.simple 策略模式
+
+cn.template.pattern.simple 模板模式
