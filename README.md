@@ -52,3 +52,9 @@ cn.null_object.pattern.simple 空对象模式
 cn.strategy.pattern.simple 策略模式
 
 cn.template.pattern.simple 模板模式
+
+cn.mvc.pattern.simple MVC模式
+
+cn.business.delegate.pattern.simple 业务代表模式
+
+cn.composite_entity.pattern.simple 组合实体模式
