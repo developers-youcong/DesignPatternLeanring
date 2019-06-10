@@ -58,3 +58,13 @@ cn.mvc.pattern.simple MVC模式
 cn.business.delegate.pattern.simple 业务代表模式
 
 cn.composite_entity.pattern.simple 组合实体模式
+
+cn.db_access_obj.pattern.simple 数据访问对象模式
+
+cn.front_controller.pattern.simple 前端控制器模式 
+
+cn.intercepting.filter.pattern.simple 拦截过滤器模式
+
+cn.service_location.pattern.simple 服务器定位模式
+
+cn.transfer_obj.pattern.simple 传输对象模式
